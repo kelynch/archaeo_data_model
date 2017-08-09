@@ -1,0 +1,19 @@
+<correspondence>
+  <unique_identifier></unique_identifier>
+  <identifiers>
+    <identifier></identifier>
+    <catalog_number></catalog_number>
+  </identifiers>
+  <rights_statement></rights_statement>
+  <people>
+    <person_id></person_id>
+    <person_id></person_id>
+  </people>
+  <references>
+    <reference_id></reference_id>
+    <reference_id></reference_id>
+  </references>
+  <correspondence_metadata>
+    ... correspondence-specific metadata
+  </correspondence_metadata>
+</correspondence>

@@ -1,0 +1,40 @@
+<map>
+  <unique_identifier></unique_identifier>
+  <identifiers>
+    <identifier></identifier>
+    <catalog_number></catalog_number>
+  </identifiers>
+  <rights_statement></rights_statement>
+  <people>
+    <person_id></person_id>
+    <person_id></person_id>
+  </people>
+  <has_many>
+    <card_id></card_id>
+    <card_id></card_id>
+  </has_many>
+  <belongs_to>
+    <card_id></card_id>
+    <card_id></card_id>
+  </belongs_to>
+  <drawing_metadata></drawing_metadata>
+  <map_metadata>
+    ... map-specific metadata
+    <references>
+      <reference>
+        <object_id></object_id>
+        <coordinates>
+          <lat></lat>
+          <long></long>
+        </coordinates>
+      </reference>
+      <reference>
+        <object_id></object_id>
+        <coordinates>
+          <lat></lat>
+          <long></long>
+        </coordinates>
+      </reference>
+    </references>
+  </map_metadata>
+</map>

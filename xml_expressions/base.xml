@@ -1,0 +1,16 @@
+<base>
+  <unique_identifier></unique_identifier>
+  <identifiers>
+    <identifier></identifier>
+    <catalog_number></catalog_number>
+  </identifiers>
+  <rights_statement></rights_statement>
+  <people>
+    <person_id></person_id>
+    <person_id></person_id>
+  </people>
+  <images>
+    <image_id></image_id>
+    <image_id></image_id>
+  </images>
+</base>

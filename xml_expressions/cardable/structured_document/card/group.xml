@@ -1,0 +1,42 @@
+<card>
+  <unique_identifier></unique_identifier>
+  <identifiers>
+    <identifier></identifier>
+    <catalog_number></catalog_number>
+  </identifiers>
+  <rights_statement></rights_statement>
+  <people>
+    <person_id></person_id>
+    <person_id></person_id>
+  </people>
+  <has_many>
+    <card_id></card_id>
+    <card_id></card_id>
+  </has_many>
+  <belongs_to>
+    <card_id></card_id>
+    <card_id></card_id>
+  </belongs_to>
+  <card_metadata>
+    ... card-specific metadata
+    <type>Group</type>
+    <references>
+      <reference>
+        <reference_id>$OBJECT_ID</reference_id>
+      </reference>
+      <reference>
+        <reference_id>$CARD_ID</reference_id>
+      </reference>
+    </references>
+    <illustrations>
+      <illustration>
+        <object_id></object_id>
+      </illustration>
+    </illustrations>
+    ... group-specific metadata
+    <site></site>
+    <operation></operation>
+    <subject></subject>
+    <excavated_areas></excavated_areas>
+  </card_metadata>
+</card>

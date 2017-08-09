@@ -1,0 +1,19 @@
+<next_number_book>
+  <unique_identifier></unique_identifier>
+  <identifiers>
+    <identifier></identifier>
+    <catalog_number></catalog_number>
+  </identifiers>
+  <rights_statement></rights_statement>
+  <people>
+    <person_id></person_id>
+    <person_id></person_id>
+  </people>
+  <references>
+    <reference_id></reference_id>
+    <reference_id></reference_id>
+  </references>
+  <next_number_book_metadata>
+    ... next number book-specific metadata
+  </next_number_book_metadata>
+</next_number_book>

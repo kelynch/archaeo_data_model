@@ -1,0 +1,25 @@
+<negative>
+  <unique_identifier></unique_identifier>
+  <identifiers>
+    <identifier></identifier>
+    <catalog_number></catalog_number>
+  </identifiers>
+  <rights_statement></rights_statement>
+  <people>
+    <person_id></person_id>
+    <person_id></person_id>
+  </people>
+  <has_many>
+    <card_id></card_id>
+    <card_id></card_id>
+  </has_many>
+  <belongs_to>
+    <card_id></card_id>
+    <card_id></card_id>
+  </belongs_to>
+  <photographic_image_metadata></photographic_image_metadata>
+  <negative_metadata>
+    <contact_sheet></contact_sheet> # Which contact sheet it's in
+    ... negative-specific metadata
+  </negative_metadata>
+</negative>

@@ -1,0 +1,23 @@
+<field_notebook>
+  <unique_identifier></unique_identifier>
+  <identifiers>
+    <identifier></identifier>
+    <catalog_number></catalog_number>
+  </identifiers>
+  <rights_statement></rights_statement>
+  <people>
+    <person_id></person_id>
+    <person_id></person_id>
+  </people>
+  <has_many>
+    <card_id></card_id>
+    <card_id></card_id>
+  </has_many>
+  <belongs_to>
+    <card_id></card_id>
+    <card_id></card_id>
+  </belongs_to>
+  <field_notebook_metadata>
+    ... field notebook-specific metadata
+  </field_notebook_metadata>
+</field_notebook>
